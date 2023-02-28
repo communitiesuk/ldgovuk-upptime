@@ -4,19 +4,19 @@
     "url": "https://www.localdigital.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.localdigital.gov.uk.ico",
     "slug": "local-digital",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1171,
-    "timeDay": 924,
-    "timeWeek": 1077,
-    "timeMonth": 1191,
-    "timeYear": 1171,
+    "time": 1173,
+    "timeDay": 1019,
+    "timeWeek": 1106,
+    "timeMonth": 1197,
+    "timeYear": 1173,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 8
     }
   }
 ]
