@@ -6,17 +6,15 @@
     "slug": "local-digital",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1019,
-    "timeWeek": 1106,
-    "timeMonth": 1197,
-    "timeYear": 1173,
-    "dailyMinutesDown": {
-      "2023-02-28": 8
-    }
+    "time": 1170,
+    "timeDay": 1026,
+    "timeWeek": 1063,
+    "timeMonth": 1210,
+    "timeYear": 1170,
+    "dailyMinutesDown": {}
   }
 ]
